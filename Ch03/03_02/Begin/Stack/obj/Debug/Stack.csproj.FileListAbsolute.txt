@@ -14,3 +14,9 @@ C:\Users\nchan\source\repos\Ex_Files_Learning_C_Sharp_Algorithms\Exercise Files\
 C:\Users\nchan\source\repos\Ex_Files_Learning_C_Sharp_Algorithms\Exercise Files\Ch03\03_02\Begin\Stack\bin\Debug\Stack.pdb
 C:\Users\nchan\source\repos\Ex_Files_Learning_C_Sharp_Algorithms\Exercise Files\Ch03\03_02\Begin\Stack\obj\Debug\Stack.exe
 C:\Users\nchan\source\repos\Ex_Files_Learning_C_Sharp_Algorithms\Exercise Files\Ch03\03_02\Begin\Stack\obj\Debug\Stack.pdb
+C:\Users\nchan\source\repos\C_Sharp_Algorithms\Ch03\03_02\Begin\Stack\bin\Debug\Stack.exe.config
+C:\Users\nchan\source\repos\C_Sharp_Algorithms\Ch03\03_02\Begin\Stack\bin\Debug\Stack.exe
+C:\Users\nchan\source\repos\C_Sharp_Algorithms\Ch03\03_02\Begin\Stack\bin\Debug\Stack.pdb
+C:\Users\nchan\source\repos\C_Sharp_Algorithms\Ch03\03_02\Begin\Stack\obj\Debug\Stack.csprojAssemblyReference.cache
+C:\Users\nchan\source\repos\C_Sharp_Algorithms\Ch03\03_02\Begin\Stack\obj\Debug\Stack.exe
+C:\Users\nchan\source\repos\C_Sharp_Algorithms\Ch03\03_02\Begin\Stack\obj\Debug\Stack.pdb
