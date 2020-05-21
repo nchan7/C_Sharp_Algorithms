@@ -16,3 +16,9 @@ C:\Users\nchan\source\repos\Ex_Files_Learning_C_Sharp_Algorithms\Exercise Files\
 C:\Users\nchan\source\repos\Ex_Files_Learning_C_Sharp_Algorithms\Exercise Files\Ch04\04_02\Begin\Queue\obj\Debug\Queue.csprojAssemblyReference.cache
 C:\Users\nchan\source\repos\Ex_Files_Learning_C_Sharp_Algorithms\Exercise Files\Ch04\04_02\Begin\Queue\obj\Debug\Queue.exe
 C:\Users\nchan\source\repos\Ex_Files_Learning_C_Sharp_Algorithms\Exercise Files\Ch04\04_02\Begin\Queue\obj\Debug\Queue.pdb
+C:\Users\nchan\source\repos\C_Sharp_Algorithms\Ch04\04_02\Begin\Queue\bin\Debug\Queue.exe.config
+C:\Users\nchan\source\repos\C_Sharp_Algorithms\Ch04\04_02\Begin\Queue\bin\Debug\Queue.exe
+C:\Users\nchan\source\repos\C_Sharp_Algorithms\Ch04\04_02\Begin\Queue\bin\Debug\Queue.pdb
+C:\Users\nchan\source\repos\C_Sharp_Algorithms\Ch04\04_02\Begin\Queue\obj\Debug\Queue.csprojAssemblyReference.cache
+C:\Users\nchan\source\repos\C_Sharp_Algorithms\Ch04\04_02\Begin\Queue\obj\Debug\Queue.exe
+C:\Users\nchan\source\repos\C_Sharp_Algorithms\Ch04\04_02\Begin\Queue\obj\Debug\Queue.pdb
