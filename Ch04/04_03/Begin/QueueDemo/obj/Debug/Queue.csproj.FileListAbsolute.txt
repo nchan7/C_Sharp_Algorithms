@@ -1,0 +1,10 @@
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_03\Begin\QueueDemo\bin\Debug\QueueDemo.exe.config
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_03\Begin\QueueDemo\bin\Debug\QueueDemo.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_03\Begin\QueueDemo\bin\Debug\QueueDemo.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_03\Begin\QueueDemo\obj\Debug\QueueDemo.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_03\Begin\QueueDemo\obj\Debug\QueueDemo.pdb
+C:\Users\nchan\source\repos\Ex_Files_Learning_C_Sharp_Algorithms\Exercise Files\Ch04\04_03\Begin\QueueDemo\bin\Debug\QueueDemo.exe.config
+C:\Users\nchan\source\repos\Ex_Files_Learning_C_Sharp_Algorithms\Exercise Files\Ch04\04_03\Begin\QueueDemo\bin\Debug\QueueDemo.exe
+C:\Users\nchan\source\repos\Ex_Files_Learning_C_Sharp_Algorithms\Exercise Files\Ch04\04_03\Begin\QueueDemo\bin\Debug\QueueDemo.pdb
+C:\Users\nchan\source\repos\Ex_Files_Learning_C_Sharp_Algorithms\Exercise Files\Ch04\04_03\Begin\QueueDemo\obj\Debug\QueueDemo.exe
+C:\Users\nchan\source\repos\Ex_Files_Learning_C_Sharp_Algorithms\Exercise Files\Ch04\04_03\Begin\QueueDemo\obj\Debug\QueueDemo.pdb

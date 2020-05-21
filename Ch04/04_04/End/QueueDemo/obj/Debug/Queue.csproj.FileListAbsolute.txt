@@ -1,0 +1,11 @@
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_04\End\QueueDemo\bin\Debug\QueueDemo.exe.config
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_04\End\QueueDemo\bin\Debug\QueueDemo.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_04\End\QueueDemo\bin\Debug\QueueDemo.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_04\End\QueueDemo\obj\Debug\Queue.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_04\End\QueueDemo\obj\Debug\QueueDemo.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_04\End\QueueDemo\obj\Debug\QueueDemo.pdb
+C:\Users\nchan\source\repos\Ex_Files_Learning_C_Sharp_Algorithms\Exercise Files\Ch04\04_04\End\QueueDemo\bin\Debug\QueueDemo.exe.config
+C:\Users\nchan\source\repos\Ex_Files_Learning_C_Sharp_Algorithms\Exercise Files\Ch04\04_04\End\QueueDemo\bin\Debug\QueueDemo.exe
+C:\Users\nchan\source\repos\Ex_Files_Learning_C_Sharp_Algorithms\Exercise Files\Ch04\04_04\End\QueueDemo\bin\Debug\QueueDemo.pdb
+C:\Users\nchan\source\repos\Ex_Files_Learning_C_Sharp_Algorithms\Exercise Files\Ch04\04_04\End\QueueDemo\obj\Debug\QueueDemo.exe
+C:\Users\nchan\source\repos\Ex_Files_Learning_C_Sharp_Algorithms\Exercise Files\Ch04\04_04\End\QueueDemo\obj\Debug\QueueDemo.pdb
