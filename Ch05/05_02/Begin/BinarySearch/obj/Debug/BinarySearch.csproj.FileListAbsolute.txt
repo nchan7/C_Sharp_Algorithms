@@ -9,3 +9,9 @@ C:\Users\nchan\source\repos\Ex_Files_Learning_C_Sharp_Algorithms\Exercise Files\
 C:\Users\nchan\source\repos\Ex_Files_Learning_C_Sharp_Algorithms\Exercise Files\Ch05\05_02\Begin\BinarySearch\bin\Debug\BinarySearch.pdb
 C:\Users\nchan\source\repos\Ex_Files_Learning_C_Sharp_Algorithms\Exercise Files\Ch05\05_02\Begin\BinarySearch\obj\Debug\BinarySearch.exe
 C:\Users\nchan\source\repos\Ex_Files_Learning_C_Sharp_Algorithms\Exercise Files\Ch05\05_02\Begin\BinarySearch\obj\Debug\BinarySearch.pdb
+C:\Users\nchan\source\repos\C_Sharp_Algorithms\Ch05\05_02\Begin\BinarySearch\bin\Debug\BinarySearch.exe.config
+C:\Users\nchan\source\repos\C_Sharp_Algorithms\Ch05\05_02\Begin\BinarySearch\bin\Debug\BinarySearch.exe
+C:\Users\nchan\source\repos\C_Sharp_Algorithms\Ch05\05_02\Begin\BinarySearch\bin\Debug\BinarySearch.pdb
+C:\Users\nchan\source\repos\C_Sharp_Algorithms\Ch05\05_02\Begin\BinarySearch\obj\Debug\BinarySearch.csprojAssemblyReference.cache
+C:\Users\nchan\source\repos\C_Sharp_Algorithms\Ch05\05_02\Begin\BinarySearch\obj\Debug\BinarySearch.exe
+C:\Users\nchan\source\repos\C_Sharp_Algorithms\Ch05\05_02\Begin\BinarySearch\obj\Debug\BinarySearch.pdb
