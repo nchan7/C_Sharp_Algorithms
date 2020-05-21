@@ -9,3 +9,8 @@ C:\Users\nchan\source\repos\Ex_Files_Learning_C_Sharp_Algorithms\Exercise Files\
 C:\Users\nchan\source\repos\Ex_Files_Learning_C_Sharp_Algorithms\Exercise Files\Ch06\06_02\Begin\LinearSearch\bin\Debug\LinearSearch.pdb
 C:\Users\nchan\source\repos\Ex_Files_Learning_C_Sharp_Algorithms\Exercise Files\Ch06\06_02\Begin\LinearSearch\obj\Debug\LinearSearch.exe
 C:\Users\nchan\source\repos\Ex_Files_Learning_C_Sharp_Algorithms\Exercise Files\Ch06\06_02\Begin\LinearSearch\obj\Debug\LinearSearch.pdb
+C:\Users\nchan\source\repos\C_Sharp_Algorithms\Ch06\06_02\Begin\LinearSearch\bin\Debug\LinearSearch.exe.config
+C:\Users\nchan\source\repos\C_Sharp_Algorithms\Ch06\06_02\Begin\LinearSearch\bin\Debug\LinearSearch.exe
+C:\Users\nchan\source\repos\C_Sharp_Algorithms\Ch06\06_02\Begin\LinearSearch\bin\Debug\LinearSearch.pdb
+C:\Users\nchan\source\repos\C_Sharp_Algorithms\Ch06\06_02\Begin\LinearSearch\obj\Debug\LinearSearch.exe
+C:\Users\nchan\source\repos\C_Sharp_Algorithms\Ch06\06_02\Begin\LinearSearch\obj\Debug\LinearSearch.pdb
